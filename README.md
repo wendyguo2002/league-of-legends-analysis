@@ -57,7 +57,7 @@ A histogram showing the distribution of calories among recipes.
 
 **Relevance to Question:** This plot helps identify the range of calorie content across all recipes, which is essential for understanding which recipes are high-calorie and their prevalence. It sets a foundation for further exploration of recipe attributes that contribute to these higher calorie counts.
 
-<iframe src="plot1(Step2).html" width="800" height="600" frameborder="0"></iframe>
+<iframe src="assets/plot1(Step2).html" width="800" height="600" frameborder="0"></iframe>
 ---
 
 ## Bivariate Analysis
