@@ -1,8 +1,8 @@
 # Predicting Recipe Calories: A Data-Driven Analysis
 
 ## Author
-**<Your Name>**  
-**Contact:** <Your Email>  
+**Wenxuan Guo**  
+**Contact:** gwenxuan@umich.edu
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -39,6 +39,7 @@ To clean the dataset, we performed the following steps:
 2. Removed rows with missing or infinite values in critical columns such as `calories`, `minutes`, and `n_steps`.
 3. Final cleaned dataset preview of columns `name` and `calories` :
 #### Head of Cleaned DataFrame
+
 | name                                 |   calories |
 |:-------------------------------------|-----------:|
 | 1 brownies in the world    best ever |      138.4 |
